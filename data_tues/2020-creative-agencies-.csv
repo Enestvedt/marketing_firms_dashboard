@@ -1,0 +1,516 @@
+﻿Rank,Agency Name,City,Agency Type,Agency Location,Product Category,Points
+1,McCann,New York,Creative Agency,USA,"Financial Services, Leisure & Entertainment, Non-profit, public sector & education, Technology & Electronics, Telecoms & Utilities",376.6
+2,Droga5,New York,Creative Agency,USA,"Food, Media & Publishing, Non-profit, public sector & education, Retail, Transport & Tourism",375.8
+3,Wieden+Kennedy,Portland,Creative Agency,USA,"Clothing & Accessories, Financial Services, Food, Retail, Toiletries & Cosmetics",297.4
+4,AMV BBDO,London,Creative Agency,UK,"Alcoholic Drinks, Toiletries & Cosmetics",234.6
+5,Impact BBDO,Dubai,Creative Agency,United Arab Emirates,"Food, Household & Domestic, Leisure & Entertainment, Media & Publishing, Non-profit, public sector & education",222.5
+6,adam&eveDDB,London,Creative Agency,UK,"Food, Non-profit, public sector & education, Retail",221.2
+7,Publicis,Milan,Creative Agency,Italy,"Alcoholic Drinks, Clothing & Accessories, Retail, Soft Drinks",211.3
+8,FCB,New York,Creative Agency,USA,Retail,200
+9,Africa,São Paulo,Creative Agency,Brazil,"Alcoholic Drinks, Media & Publishing, Non-profit, public sector & education, Technology & Electronics, Telecoms & Utilities",196.3
+10,McCann,London,Creative Agency,UK,"Media & Publishing, Non-profit, public sector & education, Technology & Electronics, Toiletries & Cosmetics",181
+11,FCB Inferno,London,Creative Agency,UK,"Media & Publishing, Technology & Electronics",165
+12,DDB,Paris,Creative Agency,France,"Non-profit, public sector & education, Technology & Electronics, Transport & Tourism",144.4
+13,AlmapBBDO,São Paulo,Creative Agency,Brazil,"Alcoholic Drinks, Automotive, Business & Industrial, Clothing & Accessories, Food, Household & Domestic, Media & Publishing, Soft Drinks, Toiletries & Cosmetics, Transport & Tourism",140.2
+14,TBWA\Media Arts Lab,Los Angeles,Creative Agency,USA,Technology & Electronics,140
+15,TBWA\Chiat\Day,New York,Creative Agency,USA,"Clothing & Accessories, Media & Publishing, Non-profit, public sector & education",136.2
+16,CHE Proximity,Melbourne,Creative Agency,Australia,"Automotive, Financial Services, Pharma & Healthcare, Transport & Tourism",135.3
+17,BBDO,New York,Creative Agency,USA,"Alcoholic Drinks, Food, Non-profit, public sector & education, Retail, Telecoms & Utilities",133.7
+18,VMLY&R,Kansas City,Creative Agency,USA,"Retail, Transport & Tourism",117.5
+19,DDB,Chicago,Creative Agency,USA,Food,114.1
+20,MullenLowe SSP3,Bogotá,Creative Agency,Colombia,"Alcoholic Drinks, Automotive, Media & Publishing, Non-profit, public sector & education, Technology & Electronics",111.1
+21,LOLA MullenLowe,Madrid,Creative Agency,Spain,"Food, Non-profit, public sector & education, Retail",109.6
+22,Dentsu,Tokyo,Creative Agency,Japan,"Alcoholic Drinks, Business & Industrial, Food, Media & Publishing, Toiletries & Cosmetics",109.4
+23,DAVID,Miami,Creative Agency,USA,"Alcoholic Drinks, Retail, Soft Drinks",107.9
+24,TBWA\RAAD,Dubai,Creative Agency,United Arab Emirates,"Automotive, Financial Services, Household & Domestic, Telecoms & Utilities, Transport & Tourism",103.8
+25,McCann,Tel Aviv,Creative Agency,Israel,Retail,100
+26,Ogilvy,Chicago,Creative Agency,USA,"Food, Household & Domestic, Leisure & Entertainment",99.9
+27,TBWA\Hunt\Lascaris,Johannesburg,Creative Agency,South Africa,"Automotive, Business & Industrial, Financial Services, Leisure & Entertainment, Telecoms & Utilities, Transport & Tourism",97.1
+28,Forsman & Bodenfors,Gothenburg,Creative Agency,Sweden,Automotive,89.1
+29,Wieden+Kennedy,São Paulo,Creative Agency,Brazil,"Alcoholic Drinks, Clothing & Accessories, Food, Toiletries & Cosmetics",88.5
+30,McCann,Madrid,Creative Agency,Spain,"Food, Non-profit, public sector & education, Retail",88.2
+31,VMLY&R,Warsaw,Creative Agency,Poland,Media & Publishing,85.3
+32,Leo Burnett,Madrid,Creative Agency,Spain,Alcoholic Drinks,84.9
+33,Virtue,Copenhagen,Creative Agency,Denmark,"Non-profit, public sector & education, Retail",84.8
+34,McCann,Paris,Creative Agency,France,"Household & Domestic, Non-profit, public sector & education, Toiletries & Cosmetics",83.9
+35,BBDO,Lahore,Creative Agency,Pakistan,"Household & Domestic, Non-profit, public sector & education",81.9
+36,Clemenger BBDO,Melbourne,Creative Agency,Australia,"Food, Non-profit, public sector & education, Retail, Transport & Tourism",77.3
+37,Ogilvy,Bangkok,Creative Agency,Thailand,"Business & Industrial, Financial Services, Food, Leisure & Entertainment, Non-profit, public sector & education, Retail",76.5
+38,DDB,Berlin,Creative Agency,Germany,"Non-profit, public sector & education",74.2
+39,BWM Dentsu,Sydney,Creative Agency,Australia,"Non-profit, public sector & education",72.5
+40,Area 23,New York,Creative Agency,USA,"Non-profit, public sector & education, Technology & Electronics",71.6
+41,Achtung! Mcgarrybowen,Amsterdam,Creative Agency,Netherlands,Automotive,70.8
+41,Isobar,Amsterdam,Digital/Specialist Agency,Netherlands,Automotive,70.8
+43,Ogilvy,Frankfurt,Creative Agency,Germany,Transport & Tourism,67.3
+44,AKQA,São Paulo,Creative Agency,Brazil,"Clothing & Accessories, Media & Publishing",67
+45,RBK Communication,Stockholm,Creative Agency,Sweden,Financial Services,66.5
+46,TBWA\Istanbul,Istanbul,Creative Agency,Turkey,"Clothing & Accessories, Leisure & Entertainment, Retail, Telecoms & Utilities",65.6
+47,Colenso BBDO,Auckland,Creative Agency,New Zealand,"Alcoholic Drinks, Household & Domestic, Telecoms & Utilities",63.2
+48,Grey,Buenos Aires,Creative Agency,Argentina,"Financial Services, Media & Publishing, Non-profit, public sector & education, Soft Drinks, Transport & Tourism",62.5
+48,Hakuhodo Kettle,Tokyo,Creative Agency,Japan,"Financial Services, Media & Publishing, Retail, Telecoms & Utilities, Transport & Tourism",62.5
+50,Joe Public,Johannesburg,Creative Agency,South Africa,"Alcoholic Drinks, Clothing & Accessories, Financial Services, Non-profit, public sector & education, Retail, Toiletries & Cosmetics",62.3
+51,Scholz & Friends,Berlin,Creative Agency,Germany,"Leisure & Entertainment, Non-profit, public sector & education, Toiletries & Cosmetics",62.1
+52,GreyNJ United,Bangkok,Creative Agency,Thailand,Financial Services,60.1
+53,TBWA\Hakuhodo,Tokyo,Creative Agency,Japan,"Automotive, Financial Services, Non-profit, public sector & education, Pharma & Healthcare, Transport & Tourism",59.1
+54,Hakuhodo,Tokyo,Creative Agency,Japan,"Business & Industrial, Financial Services, Food, Media & Publishing, Retail, Technology & Electronics, Transport & Tourism",57.5
+55,Marcel,Paris,Creative Agency,France,"Food, Leisure & Entertainment, Retail",57.2
+56,BBDO,Atlanta,Creative Agency,USA,"Non-profit, public sector & education",56.9
+57,Ogilvy,Bogotá,Creative Agency,Colombia,Transport & Tourism,56.6
+57,Ogilvy,Mexico City,Creative Agency,Mexico,Transport & Tourism,56.6
+59,FCB/SIX,Toronto,Creative Agency,Canada,Transport & Tourism,56.5
+60,Ogilvy,Hong Kong,Creative Agency,Hong Kong,"Non-profit, public sector & education, Retail, Transport & Tourism",56.1
+61,Dentsu Webchutney,Bangalore,Creative Agency,India,Retail,55.8
+62,Publicis,Singapore,Creative Agency,Singapore,Pharma & Healthcare,55.3
+63,Droga5,London,Creative Agency,UK,Retail,53.7
+64,360i,New York,Creative Agency,USA,"Alcoholic Drinks, Media & Publishing",53.3
+65,DDB,Buenos Aires,Creative Agency,Argentina,"Automotive, Financial Services, Pharma & Healthcare, Retail",52.2
+66,Wieden+Kennedy,New York,Creative Agency,USA,"Alcoholic Drinks, Media & Publishing",51.5
+67,Grey,São Paulo,Creative Agency,Brazil,"Automotive, Media & Publishing, Non-profit, public sector & education, Technology & Electronics",50.7
+68,DAVID,São Paulo,Creative Agency,Brazil,Retail,50
+69,Cheil,Hong Kong,Creative Agency,Hong Kong,"Food, Non-profit, public sector & education, Technology & Electronics",49.9
+70,BETC,Paris,Creative Agency,France,"Automotive, Clothing & Accessories, Media & Publishing, Retail",49.7
+71,Goodby Silverstein & Partners,San Francisco,Creative Agency,USA,"Automotive, Non-profit, public sector & education, Telecoms & Utilities",49.6
+72,TBWA\Paris,Paris,Creative Agency,France,"Retail, Technology & Electronics",49.1
+73,Ogilvy,Johannesburg,Creative Agency,South Africa,"Alcoholic Drinks, Financial Services, Food, Pharma & Healthcare, Retail, Technology & Electronics",48.9
+74,Fahrenheit DDB,Lima,Creative Agency,Peru,"Alcoholic Drinks, Retail",48.6
+75,R/GA,New York,Digital/Specialist Agency,USA,"Clothing & Accessories, Leisure & Entertainment, Technology & Electronics",48.5
+76,Santo,Buenos Aires,Creative Agency,Argentina,"Alcoholic Drinks, Financial Services, Household & Domestic, Soft Drinks",48.3
+77,TBWA\Melbourne,Melbourne,Creative Agency,Australia,Financial Services,46.1
+78,Wing,New York,Creative Agency,USA,"Non-profit, public sector & education",43.9
+79,Isobar,Shanghai,Digital/Specialist Agency,China (Mainland),Retail,43.1
+80,Mother,London,Creative Agency,UK,"Non-profit, public sector & education, Retail",42.5
+81,VMLY&R,Mexico City,Creative Agency,Mexico,"Financial Services, Leisure & Entertainment, Media & Publishing, Non-profit, public sector & education, Telecoms & Utilities",42.1
+82,BBDO,Toronto,Creative Agency,Canada,"Non-profit, public sector & education",42
+83,DDB,Düsseldorf,Creative Agency,Germany,"Household & Domestic, Telecoms & Utilities",41.7
+84,Wunderman Thompson,Bangkok,Creative Agency,Thailand,"Media & Publishing, Toiletries & Cosmetics",41.6
+85,INGO,Stockholm,Creative Agency,Sweden,Retail,41.3
+86,Mother,New York,Creative Agency,USA,"Clothing & Accessories, Non-profit, public sector & education",40.9
+87,FCB,Chicago,Creative Agency,USA,"Automotive, Non-profit, public sector & education",40.8
+88,Grabarz & Partner,Hamburg,Creative Agency,Germany,"Automotive, Retail",40.6
+89,JohnXHannes,New York,Creative Agency,USA,"Business & Industrial, Pharma & Healthcare",40.2
+90,MRM//McCann,Frankfurt,Digital/Specialist Agency,Germany,"Non-profit, public sector & education",39.4
+91,72andSunny,New York,Creative Agency,USA,Food,39.2
+91,Mercado McCann,Buenos Aires,Creative Agency,Argentina,"Business & Industrial, Media & Publishing, Soft Drinks",39.2
+93,Leo Burnett,Chicago,Creative Agency,USA,"Food, Soft Drinks",38.4
+94,VMLY&R,Santiago,Creative Agency,Chile,"Leisure & Entertainment, Non-profit, public sector & education",38.3
+95,Tech and Soul,São Paulo,Creative Agency,Brazil,Transport & Tourism,38.1
+96,Ogilvy,São Paulo,Creative Agency,Brazil,"Media & Publishing, Retail",37.1
+97,Arnold Worldwide,Boston,Creative Agency,USA,"Business & Industrial, Financial Services, Technology & Electronics",36.4
+98,Casanova//McCann,Costa Mesa,Creative Agency,USA,"Non-profit, public sector & education",36.3
+98,McCann,Toronto,Creative Agency,Canada,"Non-profit, public sector & education",36.3
+100,BBDO,Bangkok,Creative Agency,Thailand,"Automotive, Retail, Technology & Electronics",36.1
+101,Impact BBDO,Beirut,Creative Agency,Lebanon,"Media & Publishing, Non-profit, public sector & education",35.1
+102,TBWA\Helsinki,Helsinki,Creative Agency,Finland,"Media & Publishing, Retail",35
+103,thjnk,Zurich,Creative Agency,Switzerland,"Non-profit, public sector & education",34.9
+104,Special Group,Sydney,Creative Agency,Australia,Retail,33.7
+105,McCann,Bucharest,Creative Agency,Romania,"Food, Non-profit, public sector & education, Retail, Soft Drinks, Telecoms & Utilities",33.6
+106,FCB,New Delhi,Creative Agency,India,"Non-profit, public sector & education",33.3
+107,Leo Burnett,Dubai,Creative Agency,United Arab Emirates,"Financial Services, Retail, Telecoms & Utilities",32.2
+108,VaynerMedia,New York,Digital/Specialist Agency,USA,"Alcoholic Drinks, Food",31.9
+109,DDB,New York,Creative Agency,USA,"Leisure & Entertainment, Retail",31.6
+110,HO Communication,Shanghai,Creative Agency,China (Mainland),Retail,31.3
+111,Rothco,Dublin,Creative Agency,Ireland,"Financial Services, Non-profit, public sector & education",31.2
+112,Sra Rushmore,Madrid,Creative Agency,Spain,"Non-profit, public sector & education",31.1
+113,DDB,Madrid,Creative Agency,Spain,"Non-profit, public sector & education",30.9
+114,FP7/DXB,Dubai,Creative Agency,United Arab Emirates,"Pharma & Healthcare, Retail",30.4
+115,King James,Cape Town,Creative Agency,South Africa,"Financial Services, Media & Publishing",29.5
+116,antoni,Berlin,Creative Agency,Germany,Automotive,29.1
+117,Alma DDB,Miami,Creative Agency,USA,"Non-profit, public sector & education, Retail",28.8
+117,GTB,São Paulo,Creative Agency,Brazil,Automotive,28.8
+119,Don,Buenos Aires,Creative Agency,Argentina,"Media & Publishing, Retail",27.7
+120,DDB,Sydney,Creative Agency,Australia,"Automotive, Media & Publishing",27.5
+121,TBWA\Santiago Mangada Puno,Makati,Creative Agency,Philippines,"Household & Domestic, Non-profit, public sector & education",26.7
+122,Leo Burnett,Taipei,Creative Agency,Taiwan,"Automotive, Retail, Transport & Tourism",26.5
+123,Z+,São Paulo,Creative Agency,Brazil,"Automotive, Non-profit, public sector & education",26.3
+123,Jung von Matt/Limmat,Zurich,Creative Agency,Switzerland,"Non-profit, public sector & education",26.3
+125,Pipar\TBWA,Reykjavik,Creative Agency,Iceland,"Non-profit, public sector & education",26.2
+126,VMLY&R,São Paulo,Creative Agency,Brazil,"Household & Domestic, Media & Publishing, Non-profit, public sector & education, Telecoms & Utilities",26.1
+127,We Believers,New York,Creative Agency,USA,Retail,26
+128,Innocean Worldwide,Seoul,Creative Agency,South Korea,"Automotive, Financial Services",25.9
+129,Lew'Lara\TBWA,São Paulo,Creative Agency,Brazil,"Non-profit, public sector & education",25.1
+129,Engine,London,Creative Agency,UK,"Non-profit, public sector & education",25.1
+131,&Co,Copenhagen,Creative Agency,Denmark,Clothing & Accessories,24.6
+132,Buzzman,Paris,Creative Agency,France,"Leisure & Entertainment, Retail",24.5
+133,J. Walter Thompson,Riyadh,Creative Agency,Saudi Arabia,"Media & Publishing, Telecoms & Utilities",24.1
+133,Grey,Dhaka,Creative Agency,Bangladesh,Financial Services,24.1
+135,Havas Worldwide,Istanbul,Creative Agency,Turkey,Household & Domestic,24
+136,VMLY&R,Dubai,Creative Agency,United Arab Emirates,"Non-profit, public sector & education",23.8
+137,Cheil Worldwide,Seoul,Creative Agency,South Korea,"Financial Services, Non-profit, public sector & education, Technology & Electronics",23.1
+138,Centrade,Bucharest,Digital/Specialist Agency,Romania,"Non-profit, public sector & education",22.8
+139,Erich & Kallman,San Francisco,Creative Agency,USA,Food,22.6
+140,Geometry,Buenos Aires,Digital/Specialist Agency,Argentina,"Automotive, Media & Publishing",22.5
+141,Digitas,Buenos Aires,Digital/Specialist Agency,Argentina,Soft Drinks,21.9
+142,Leo Burnett,Tel Aviv,Creative Agency,Israel,"Alcoholic Drinks, Non-profit, public sector & education, Technology & Electronics",21.8
+143,DDB,Vancouver,Creative Agency,Canada,Retail,21.6
+143,The Marketing Store,Chicago,Creative Agency,USA,Retail,21.6
+143,We Are Unlimited,Chicago,Creative Agency,USA,Retail,21.6
+146,72andSunny,Los Angeles,Creative Agency,USA,Technology & Electronics,21.2
+147,Grey,New York,Creative Agency,USA,Toiletries & Cosmetics,20.9
+148,Wunderman Thompson,Mumbai,Creative Agency,India,"Non-profit, public sector & education",20.3
+148,Wunderman Thompson,Amsterdam,Creative Agency,Netherlands,"Non-profit, public sector & education",20.3
+150,Leo Burnett,Toronto,Creative Agency,Canada,"Financial Services, Household & Domestic",20
+151,afg&,London,Digital/Specialist Agency,UK,Household & Domestic,19.9
+152,Leo Burnett,Melbourne,Creative Agency,Australia,"Clothing & Accessories, Food",19.7
+153,FCB,Johannesburg,Creative Agency,South Africa,"Automotive, Soft Drinks",19.1
+153,Giant Spoon,New York,Creative Agency,USA,Media & Publishing,19.1
+153,TBWA\Thailand,Bangkok,Creative Agency,Thailand,Retail,19.1
+156,Ogilvy,Cape Town,Creative Agency,South Africa,"Alcoholic Drinks, Automotive, Food, Retail, Soft Drinks",18.7
+157,TBWA\India,Mumbai,Creative Agency,India,Pharma & Healthcare,18.5
+158,McCann,Belgrade,Creative Agency,Serbia,"Non-profit, public sector & education",18
+158,CP+B,Boulder,Creative Agency,USA,Retail,18
+158,Forsman & Bodenfors Inhouse,Gothenburg,Creative Agency,Sweden,Automotive,18
+161,McCann,Milton Keynes,Creative Agency,UK,Automotive,17.9
+161,MRM//McCann,Madrid,Digital/Specialist Agency,Spain,Automotive,17.9
+163,VMLY&R,Chicago,Creative Agency,USA,Food,17.8
+163,Wunderman Thompson,São Paulo,Creative Agency,Brazil,"Automotive, Household & Domestic",17.8
+165,DDB,Auckland,Creative Agency,New Zealand,"Leisure & Entertainment, Non-profit, public sector & education",17.6
+166,LDV United,Antwerp,Creative Agency,Belgium,Leisure & Entertainment,17.5
+167,TBWA\Media Arts Lab,Shanghai,Creative Agency,China (Mainland),Technology & Electronics,17.3
+167,180heartbeats + Jung von Matt,Warsaw,Creative Agency,Poland,Food,17.3
+167,The Martin Agency,Richmond,Creative Agency,USA,Financial Services,17.3
+170,Jam3,Toronto,Digital/Specialist Agency,Canada,Clothing & Accessories,17.1
+170,Publicis,New York,Creative Agency,USA,Clothing & Accessories,17.1
+170,Publicis Conseil,Paris,Creative Agency,France,Media & Publishing,17.1
+173,Anomaly,New York,Creative Agency,USA,"Food, Technology & Electronics",16.8
+173,Serviceplan,Paris,Creative Agency,France,Retail,16.8
+175,Rafineri,Istanbul,Digital/Specialist Agency,Turkey,"Non-profit, public sector & education",16.7
+175,DAVID,Buenos Aires,Creative Agency,Argentina,Financial Services,16.7
+177,Bensimon Byrne,Toronto,Creative Agency,Canada,"Non-profit, public sector & education",16.6
+178,M&C Saatchi Abel,Johannesburg,Creative Agency,South Africa,"Retail, Technology & Electronics",16.5
+178,Happiness Brussels,Brussels,Creative Agency,Belgium,"Alcoholic Drinks, Non-profit, public sector & education, Telecoms & Utilities",16.5
+180,Leo Burnett,Kuala Lumpur,Creative Agency,Malaysia,"Non-profit, public sector & education",15.6
+181,McCann,Mumbai,Creative Agency,India,"Financial Services, Non-profit, public sector & education, Pharma & Healthcare",15.5
+182,VMLY&R,Sydney,Creative Agency,Australia,"Financial Services, Retail",15
+182,Isobar,Mexico City,Digital/Specialist Agency,Mexico,"Food, Transport & Tourism",15
+184,Prime,Stockholm,Digital/Specialist Agency,Sweden,Media & Publishing,14.9
+184,Innored,Seoul,Creative Agency,South Korea,Clothing & Accessories,14.9
+184,BBDO,Mumbai,Creative Agency,India,Household & Domestic,14.9
+187,The Richards Group,Dallas,Creative Agency,Colombia,Transport & Tourism,14.8
+188,DDB,Guaynabo,Creative Agency,Puerto Rico,"Alcoholic Drinks, Automotive, Business & Industrial",14.6
+188,el Ruso de Rocky,Madrid,Creative Agency,Spain,"Alcoholic Drinks, Financial Services",14.6
+190,VMLY&R,Johannesburg,Creative Agency,South Africa,"Non-profit, public sector & education, Retail",14.4
+191,Wunderman,Buenos Aires,Digital/Specialist Agency,Argentina,"Non-profit, public sector & education, Retail, Telecoms & Utilities",14.3
+192,Serviceplan,Munich,Creative Agency,Germany,"Non-profit, public sector & education, Transport & Tourism",14.1
+192,Leo Burnett,Colombo,Creative Agency,Sri Lanka,Household & Domestic,14.1
+192,FCB&FiRe,Madrid,Creative Agency,Spain,Food,14.1
+195,Clemenger BBDO,Wellington,Creative Agency,New Zealand,"Non-profit, public sector & education",13.8
+196,Contrapunto BBDO,Madrid,Creative Agency,Spain,Leisure & Entertainment,13.7
+196,Net#work BBDO,Johannesburg,Creative Agency,South Africa,Automotive,13.7
+198,GSD&M,Austin,Creative Agency,USA,Retail,13.6
+199,CJ WORX,Bangkok,Digital/Specialist Agency,Thailand,"Financial Services, Food, Media & Publishing",13.4
+199,Leo Burnett,Sydney,Creative Agency,Australia,Technology & Electronics,13.4
+199,Digitas,Warsaw,Digital/Specialist Agency,Poland,Technology & Electronics,13.4
+202,Cheil,Gurgaon,Creative Agency,India,"Non-profit, public sector & education, Technology & Electronics",13.3
+202,BLKJ,Singapore,Creative Agency,Singapore,Telecoms & Utilities,13.3
+202,Clemenger BBDO,Sydney,Creative Agency,Australia,"Food, Household & Domestic",13.3
+205,Memac Ogilvy,Dubai,Creative Agency,United Arab Emirates,"Automotive, Retail",13.1
+205,VOSKHOD,Ekaterinburg,Creative Agency,Russia,Media & Publishing,13.1
+207,DDB,Budapest,Creative Agency,Hungary,"Non-profit, public sector & education",12.9
+207,Rabbit's Tale,Bangkok,Digital/Specialist Agency,Thailand,Financial Services,12.9
+209,McCann,Birmingham,Creative Agency,UK,"Pharma & Healthcare, Soft Drinks",12.8
+210,ADK,Tokyo,Creative Agency,Japan,"Clothing & Accessories, Retail, Soft Drinks",12.7
+211,MRM Meteorite,London,Digital/Specialist Agency,UK,Technology & Electronics,12.4
+211,MullenLowe,Istanbul,Creative Agency,Turkey,"Non-profit, public sector & education",12.4
+211,FoxP2,Cape Town,Creative Agency,South Africa,"Business & Industrial, Media & Publishing",12.4
+214,McCann,Taguig,Creative Agency,Philippines,Retail,12.3
+214,Wieden+Kennedy,Shanghai,Creative Agency,China (Mainland),Clothing & Accessories,12.3
+216,CHERRY,Tokyo,Creative Agency,Japan,"Clothing & Accessories, Non-profit, public sector & education, Soft Drinks",12.1
+216,Hakuhodo,Jakarta,Creative Agency,Indonesia,"Non-profit, public sector & education",12.1
+216,Saatchi & Saatchi,Auckland,Creative Agency,New Zealand,"Non-profit, public sector & education",12.1
+219,HOY,Buenos Aires,Creative Agency,Argentina,Media & Publishing,12
+220,BMF,Sydney,Creative Agency,Australia,"Non-profit, public sector & education",11.8
+220,Ogilvy,Singapore,Creative Agency,Singapore,"Non-profit, public sector & education, Toiletries & Cosmetics",11.8
+222,Big Family Table,Los Angeles,Creative Agency,USA,Media & Publishing,11.7
+223,Grey,Toronto,Creative Agency,Canada,Toiletries & Cosmetics,11.6
+224,McCann,Frankfurt,Creative Agency,Germany,"Non-profit, public sector & education",11.4
+224,FCB,Auckland,Creative Agency,New Zealand,"Non-profit, public sector & education",11.4
+226,J. Walter Thompson,Casablanca,Creative Agency,Morocco,Food,11.2
+227,Wunderman Thompson,Lima,Creative Agency,Peru,"Non-profit, public sector & education, Retail",11.1
+228,M&C Saatchi Abel,Cape Town,Creative Agency,South Africa,Retail,10.8
+228,Leo Burnett,Moscow,Creative Agency,Russia,Media & Publishing,10.8
+230,Ogilvy,Shanghai,Creative Agency,China (Mainland),Clothing & Accessories,10.7
+231,TBWA\Singapore,Singapore,Creative Agency,Singapore,Transport & Tourism,10.6
+231,Cossette,Toronto,Creative Agency,Canada,"Non-profit, public sector & education",10.6
+233,Dentsu East Japan,Tokyo,Creative Agency,Japan,"Automotive, Media & Publishing",10.5
+233,CHINA,Madrid,Creative Agency,Spain,Clothing & Accessories,10.5
+233,Leo Burnett,Mexico City,Creative Agency,Mexico,"Automotive, Non-profit, public sector & education",10.5
+233,Åkestam Holst,Stockholm,Creative Agency,Sweden,"Non-profit, public sector & education",10.5
+237,Dentsu,Tokyo,Creative Agency,Japan,"Automotive, Media & Publishing",10.4
+237,Grey,Mumbai,Creative Agency,India,"Media & Publishing, Non-profit, public sector & education, Toiletries & Cosmetics",10.4
+237,Six Inc,Tokyo,Creative Agency,Japan,"Media & Publishing, Transport & Tourism",10.4
+240,Publicis,Madrid,Creative Agency,Spain,Retail,10.3
+241,Havas Worldwide,New York,Creative Agency,USA,Financial Services,10.2
+241,R/GA,Portland,Digital/Specialist Agency,USA,Clothing & Accessories,10.2
+243,New Moment New Ideas Company,Belgrade,Creative Agency,Serbia,"Non-profit, public sector & education",10.1
+244,Edelman,Los Angeles,Digital/Specialist Agency,USA,Technology & Electronics,10
+244,Mensch,Copenhagen,Creative Agency,Denmark,Transport & Tourism,10
+244,Sansir,Copenhagen,Creative Agency,Denmark,Transport & Tourism,10
+244,Leo Burnett,Belgrade,Creative Agency,Serbia,Telecoms & Utilities,10
+244,Leo Burnett,Bucharest,Creative Agency,Romania,Telecoms & Utilities,10
+244,Gitam BBDO,Tel Aviv,Creative Agency,Israel,Technology & Electronics,10
+244,Publicis,Bucharest,Creative Agency,Romania,"Non-profit, public sector & education",10
+251,BETC,São Paulo,Creative Agency,Brazil,"Clothing & Accessories, Media & Publishing",9.9
+251,Dhélet VMLY&R,Buenos Aires,Creative Agency,Argentina,"Financial Services, Transport & Tourism",9.9
+253,Ruf Lanz,Zurich,Creative Agency,Switzerland,Financial Services,9.7
+253,Kolle Rebbe,Hamburg,Creative Agency,Germany,"Media & Publishing, Transport & Tourism",9.7
+255,Altmann + Pacreau,Paris,Creative Agency,France,"Non-profit, public sector & education",9.5
+256,PS21,Madrid,Creative Agency,Spain,"Alcoholic Drinks, Retail",9.3
+257,FF,Paris,Creative Agency,France,"Leisure & Entertainment, Non-profit, public sector & education",9.2
+258,Wunderman Thompson,Singapore,Creative Agency,Singapore,Toiletries & Cosmetics,8.9
+258,DDB,Bogotá,Creative Agency,Colombia,"Household & Domestic, Leisure & Entertainment",8.9
+258,DDB,Mexico City,Creative Agency,Mexico,"Non-profit, public sector & education, Retail",8.9
+258,Party,Tokyo,Creative Agency,Japan,"Media & Publishing, Toiletries & Cosmetics",8.9
+258,VMLY&R,Melbourne,Creative Agency,Australia,"Non-profit, public sector & education",8.9
+258,Dentsu One,Bangkok,Creative Agency,Thailand,"Non-profit, public sector & education",8.9
+258,Meerkats,Perth,Creative Agency,Australia,"Non-profit, public sector & education",8.9
+258,Scholz & Friends,Hamburg,Creative Agency,Germany,Household & Domestic,8.9
+258,Zulu Alpha Kilo,Toronto,Creative Agency,Canada,Technology & Electronics,8.9
+267,Fallon,London,Creative Agency,UK,Automotive,8.8
+267,Publicis.Sapient,New York,Digital/Specialist Agency,USA,Toiletries & Cosmetics,8.8
+267,Commonwealth//McCann,Dubai,Creative Agency,United Arab Emirates,Automotive,8.8
+267,VMLY&R,Auckland,Creative Agency,New Zealand,Financial Services,8.8
+271,Leo Burnett,Mumbai,Creative Agency,India,"Automotive, Financial Services, Non-profit, public sector & education",8.7
+272,Cheil,São Paulo,Creative Agency,Brazil,Retail,8.4
+272,NOSSA,Algés,Creative Agency,Brazil,"Non-profit, public sector & education",8.4
+272,Publicis,Quito,Creative Agency,Ecuador,"Media & Publishing, Transport & Tourism",8.4
+275,ISD Group,Kiev,Digital/Specialist Agency,Ukraine,Media & Publishing,8.3
+275,Nord DDB,Stockholm,Creative Agency,Sweden,"Automotive, Clothing & Accessories, Retail",8.3
+275,Taproot Dentsu,Mumbai,Creative Agency,India,Household & Domestic,8.3
+275,MRM//McCann,Singapore,Digital/Specialist Agency,Singapore,Media & Publishing,8.3
+279,The Odd Number,Johannesburg,Creative Agency,South Africa,"Media & Publishing, Non-profit, public sector & education",8.2
+280,Loong,Beijing,Creative Agency,China (Mainland),"Non-profit, public sector & education",8
+281,Grey,Kuala Lumpur,Creative Agency,Malaysia,Retail,7.7
+282,Uncommon Creative Studio,London,Creative Agency,UK,Media & Publishing,7.6
+282,BBDO Guerrero,Makati,Creative Agency,Philippines,Food,7.6
+282,Wolf Bkk,Bangkok,Creative Agency,Thailand,"Financial Services, Media & Publishing",7.6
+285,Ogilvy,London,Creative Agency,UK,"Alcoholic Drinks, Transport & Tourism",7.5
+286,Imagination,Sydney,Digital/Specialist Agency,Australia,Technology & Electronics,7.4
+286,The Brand Agency,Perth,Creative Agency,Australia,"Non-profit, public sector & education",7.4
+288,Coolr,London,Creative Agency,UK,Retail,7.2
+288,Momentum,New York,Digital/Specialist Agency,USA,"Clothing & Accessories, Financial Services",7.2
+288,ONLY IF,Mexico City,Creative Agency,Mexico,"Alcoholic Drinks, Media & Publishing",7.2
+288,Publicis,São Paulo,Creative Agency,Brazil,"Alcoholic Drinks, Financial Services",7.2
+288,TBWA\London,London,Creative Agency,UK,Financial Services,7.2
+293,Fold7,London,Creative Agency,UK,Alcoholic Drinks,7.1
+294,The Monkeys,Sydney,Creative Agency,Australia,"Clothing & Accessories, Non-profit, public sector & education",7
+294,R/GA,London,Digital/Specialist Agency,UK,Business & Industrial,7
+294,Rethink,Montreal,Creative Agency,Canada,"Non-profit, public sector & education, Retail",7
+297,CLM BBDO,Paris,Creative Agency,France,Household & Domestic,6.8
+297,DDB,Vienna,Creative Agency,Austria,Retail,6.8
+297,Ponce,Buenos Aires,Creative Agency,Argentina,Media & Publishing,6.8
+297,Saatchi & Saatchi,Los Angeles,Creative Agency,USA,Automotive,6.8
+297,TAXI,Toronto,Creative Agency,Canada,Food,6.8
+297,Blink Digital,Mumbai,Digital/Specialist Agency,India,Technology & Electronics,6.8
+297,Energy BBDO,Chicago,Creative Agency,USA,"Food, Household & Domestic",6.8
+304,Doner,Michigan,Creative Agency,USA,Food,6.7
+304,Engine,New York,Creative Agency,USA,Media & Publishing,6.7
+304,MullenLowe,Boston,Creative Agency,USA,Retail,6.7
+304,Wunderman Thompson,London,Creative Agency,UK,Financial Services,6.7
+308,DUKE,Cape Town,Creative Agency,South Africa,"Non-profit, public sector & education, Soft Drinks",6.6
+309,BBDO,Berlin,Creative Agency,Germany,"Automotive, Non-profit, public sector & education",6.4
+310,d4 McCann,Guatemala City,Creative Agency,Guatemala,Transport & Tourism,6.3
+310,Geometry,Bogotá,Digital/Specialist Agency,Colombia,"Non-profit, public sector & education",6.3
+310,Geometry,Mexico City,Digital/Specialist Agency,Mexico,"Non-profit, public sector & education",6.3
+310,Grey,Bogotá,Creative Agency,Colombia,"Media & Publishing, Toiletries & Cosmetics",6.3
+310,La Familia,Santiago,Creative Agency,Chile,"Non-profit, public sector & education",6.3
+310,Publicis Impetu,Montevideo,Creative Agency,Uruguay,Telecoms & Utilities,6.3
+310,SunsetDDB,São Paulo,Creative Agency,Brazil,Alcoholic Drinks,6.3
+317,River,Stockholm,Creative Agency,Sweden,Financial Services,6.2
+317,GTB,Johannesburg,Creative Agency,South Africa,Automotive,6.2
+317,Havas Worldwide,Johannesburg,Creative Agency,South Africa,"Non-profit, public sector & education",6.2
+317,MullenLowe,Dubai,Creative Agency,United Arab Emirates,"Automotive, Household & Domestic",6.2
+321,DDB,Warsaw,Creative Agency,Poland,Retail,6
+321,Folk,Helsinki,Creative Agency,Finland,Retail,6
+321,McCann,Prague,Creative Agency,Czech Republic,Soft Drinks,6
+321,McCann,Milan,Creative Agency,Italy,Alcoholic Drinks,6
+321,MRM//McCann,Milan,Digital/Specialist Agency,Italy,Alcoholic Drinks,6
+321,Saatchi & Saatchi,Sofia,Creative Agency,Bulgaria,Automotive,6
+321,Serviceplan,Milan,Creative Agency,Italy,Media & Publishing,6
+321,Per Høj,Oslo,Creative Agency,Norway,Financial Services,6
+329,BBDO,Shanghai,Creative Agency,China (Mainland),Food,5.9
+329,Juniper Park\TBWA,Toronto,Creative Agency,Canada,"Non-profit, public sector & education",5.9
+329,Ogilvy,Athens,Creative Agency,Greece,Telecoms & Utilities,5.9
+332,Tribal Worldwide,São Paulo,Digital/Specialist Agency,Brazil,Automotive,5.7
+333,DDB Mudra Group,Mumbai,Creative Agency,India,Media & Publishing,5.3
+333,Dentsu,Taipei,Creative Agency,Taiwan,Business & Industrial,5.3
+333,Encompass,Mumbai,Digital/Specialist Agency,India,Toiletries & Cosmetics,5.3
+333,Famous Innovations,Mumbai,Creative Agency,India,"Non-profit, public sector & education",5.3
+333,Grey,Tokyo,Creative Agency,Japan,Toiletries & Cosmetics,5.3
+333,Host/Havas,Sydney,Creative Agency,Australia,Transport & Tourism,5.3
+333,J. Walter Thompson,Taipei,Creative Agency,Taiwan,"Non-profit, public sector & education, Retail",5.3
+333,Mullenlowe,Singapore,Creative Agency,Singapore,Toiletries & Cosmetics,5.3
+333,Publicis,Brisbane,Creative Agency,Australia,Transport & Tourism,5.3
+333,TBWA\Sri Lanka,Colombo,Creative Agency,Sri Lanka,Household & Domestic,5.3
+333,Triad,Colombo,Creative Agency,Sri Lanka,"Non-profit, public sector & education",5.3
+344,Flock,Jakarta,Creative Agency,Indonesia,Transport & Tourism,5.1
+344,Sour,Bangkok,Creative Agency,Thailand,"Media & Publishing, Retail",5.1
+346,AKQA,Shanghai,Creative Agency,China (Mainland),Clothing & Accessories,4.9
+346,Hakuhodo,Hong Kong,Creative Agency,Hong Kong,"Non-profit, public sector & education",4.9
+346,Lobster & Co,Bangkok,Creative Agency,Thailand,Toiletries & Cosmetics,4.9
+346,Petch,Makati,Creative Agency,Philippines,Retail,4.9
+350,Anorak,Oslo,Creative Agency,Norway,Media & Publishing,4.7
+350,Romance,Paris,Creative Agency,France,Retail,4.7
+352,FP7/CAI,Cairo,Creative Agency,Egypt,Soft Drinks,4.6
+353,Anomaly,Los Angeles,Creative Agency,USA,Clothing & Accessories,4.5
+353,TBWA\Korea,Seoul,Creative Agency,South Korea,Retail,4.5
+355,Wieden+Kennedy,Amsterdam,Creative Agency,Netherlands,Clothing & Accessories,4.4
+355,Wunderman,Dubai,Digital/Specialist Agency,United Arab Emirates,Toiletries & Cosmetics,4.4
+357,(anónimo),Mexico City,Creative Agency,Mexico,Alcoholic Drinks,4.2
+357,Capim.AG,Cascavel,Creative Agency,Brazil,Automotive,4.2
+357,Copiloto,Lima,Creative Agency,Peru,Media & Publishing,4.2
+357,DPZ&T,São Paulo,Creative Agency,Brazil,Retail,4.2
+357,Figallo,Mexico City,Creative Agency,Mexico,Business & Industrial,4.2
+357,Geometry,San José,Digital/Specialist Agency,Costa Rica,"Non-profit, public sector & education",4.2
+357,Grey,Los Angeles,Creative Agency,USA,Toiletries & Cosmetics,4.2
+357,Havas Health & You,São Paulo,Digital/Specialist Agency,Brazil,Media & Publishing,4.2
+357,Leo Burnett,Bogotá,Creative Agency,Colombia,Retail,4.2
+357,Maruri Grey,Guayaquil,Creative Agency,Ecuador,Food,4.2
+357,McCann,Santiago,Creative Agency,Chile,"Leisure & Entertainment, Non-profit, public sector & education",4.2
+357,McCann,Barcelona,Creative Agency,Spain,Soft Drinks,4.2
+357,TBWA\Frederick,Santiago,Creative Agency,Chile,"Media & Publishing, Soft Drinks",4.2
+357,Tribal 121,Lima,Digital/Specialist Agency,Peru,Household & Domestic,4.2
+357,WMcCann,São Paulo,Creative Agency,Brazil,Financial Services,4.2
+357,Arts & Letters Creative Co.,Richmond,Creative Agency,USA,Technology & Electronics,4.2
+357,Pulse Creative,London,Creative Agency,UK,Media & Publishing,4.2
+374,FCB,Durban,Creative Agency,South Africa,Media & Publishing,4.1
+374,MADE Agency,Cape Town,Creative Agency,South Africa,"Non-profit, public sector & education",4.1
+374,McCann1886,Johannesburg,Creative Agency,South Africa,Telecoms & Utilities,4.1
+374,Openfield,Johannesburg,Digital/Specialist Agency,South Africa,Telecoms & Utilities,4.1
+378,Change Serviceplan,Warsaw,Creative Agency,Poland,Retail,4
+378,Concept,Istanbul,Creative Agency,Turkey,Automotive,4
+378,GONG,Gliwice,Creative Agency,Poland,Alcoholic Drinks,4
+378,Havas Worldwide,Prague,Creative Agency,Czech Republic,"Non-profit, public sector & education",4
+378,Mainstage the agency,Bucharest,Creative Agency,Romania,Retail,4
+378,MullenLowe,Bucharest,Creative Agency,Romania,Retail,4
+378,Serviceplan,Vienna,Creative Agency,Austria,Transport & Tourism,4
+378,VMLY&R,Prague,Creative Agency,Czech Republic,"Non-profit, public sector & education",4
+386,4129Grey,Istanbul,Digital/Specialist Agency,Turkey,"Non-profit, public sector & education",3.7
+386,M/H VCCP,San Francisco,Creative Agency,USA,"Non-profit, public sector & education",3.7
+388,BBDO,Buenos Aires,Creative Agency,Argentina,Pharma & Healthcare,3.6
+388,Deutsch,New York,Creative Agency,USA,Alcoholic Drinks,3.6
+388,Digitas,New York,Digital/Specialist Agency,USA,Financial Services,3.6
+388,FamousGrey,Brussels,Creative Agency,Belgium,"Non-profit, public sector & education",3.6
+388,Interesting Times,Beirut,Creative Agency,Lebanon,Alcoholic Drinks,3.6
+388,Jotabequ Grey,San José,Creative Agency,Costa Rica,Food,3.6
+388,Karmarama,London,Creative Agency,UK,"Non-profit, public sector & education",3.6
+388,Leo Burnett Tailor Made,São Paulo,Creative Agency,Brazil,Media & Publishing,3.6
+388,Momentum,Toronto,Digital/Specialist Agency,Canada,Clothing & Accessories,3.6
+388,MullenLowe,Bangkok,Creative Agency,Thailand,Household & Domestic,3.6
+388,NBS,Rio de Janeiro,Creative Agency,Brazil,Leisure & Entertainment,3.6
+388,Officer&Gentleman,Madrid,Creative Agency,Spain,Leisure & Entertainment,3.6
+388,Ogilvy,Madrid,Creative Agency,Spain,"Non-profit, public sector & education",3.6
+388,Pereira O'Dell,San Francisco,Creative Agency,USA,Technology & Electronics,3.6
+388,Rosapark,Paris,Creative Agency,France,Transport & Tourism,3.6
+388,RPA,Los Angeles,Creative Agency,USA,Automotive,3.6
+388,Special Group,Auckland,Creative Agency,New Zealand,Retail,3.6
+388,TBWA\Chiat\Day,Los Angeles,Creative Agency,USA,Media & Publishing,3.6
+388,TBWA\España,Madrid,Creative Agency,Spain,Technology & Electronics,3.6
+388,TBWA\Shanghai,Shanghai,Creative Agency,China (Mainland),Clothing & Accessories,3.6
+388,Venables Bell & Partner,San Francisco,Creative Agency,USA,Clothing & Accessories,3.6
+388,Victory Creative Group,Toronto,Digital/Specialist Agency,Canada,Clothing & Accessories,3.6
+388,whiteGREY,Sydney,Creative Agency,Australia,Automotive,3.6
+388,Wolf BCPP,Santiago,Creative Agency,Chile,"Non-profit, public sector & education",3.6
+412,BBDO,Düsseldorf,Creative Agency,Germany,"Non-profit, public sector & education",3.4
+412,Carne,Lima,Creative Agency,Peru,Leisure & Entertainment,3.4
+412,CDM,New York,Digital/Specialist Agency,USA,"Non-profit, public sector & education",3.4
+412,Cheil,Amsterdam,Creative Agency,Netherlands,Technology & Electronics,3.4
+412,DiMassimo Goldstein,New York,Creative Agency,USA,Media & Publishing,3.4
+412,Havas Worldwide,Düsseldorf,Creative Agency,Germany,Media & Publishing,3.4
+412,HelloFCB+,Cape Town,Creative Agency,South Africa,Retail,3.4
+412,Innocean Worldwide,São Paulo,Creative Agency,Brazil,Automotive,3.4
+412,Iris,London,Creative Agency,UK,"Non-profit, public sector & education",3.4
+412,mcgarrybowen,London,Creative Agency,UK,Retail,3.4
+412,Ogilvy,Auckland,Creative Agency,New Zealand,"Non-profit, public sector & education",3.4
+412,Ogilvy,Taguig,Creative Agency,Philippines,Toiletries & Cosmetics,3.4
+412,Pagés BBDO,Santo Domingo,Creative Agency,Dominican Republic,Retail,3.4
+412,Proximity,Düsseldorf,Digital/Specialist Agency,Germany,"Non-profit, public sector & education",3.4
+412,Virtue,New York,Creative Agency,USA,Leisure & Entertainment,3.4
+412,Wieden+Kennedy,London,Creative Agency,UK,Telecoms & Utilities,3.4
+412,Wunderman Thompson,Sydney,Creative Agency,Australia,Clothing & Accessories,3.4
+412,AKQA,Portland,Creative Agency,USA,Technology & Electronics,3.4
+412,ANR BBDO,Stockholm,Creative Agency,Sweden,"Non-profit, public sector & education",3.4
+412,Dare.Win,Paris,Creative Agency,France,Media & Publishing,3.4
+412,Havas Paris Seven,Paris,Creative Agency,France,Transport & Tourism,3.4
+412,Isobar,Paris,Digital/Specialist Agency,France,Transport & Tourism,3.4
+412,Listen,New York,Digital/Specialist Agency,USA,Technology & Electronics,3.4
+412,Publicis,Amsterdam,Creative Agency,Netherlands,Transport & Tourism,3.4
+412,Publicis Pixelpark,Erlangen,Digital/Specialist Agency,Germany,Clothing & Accessories,3.4
+412,Publicis Pixelpark,Frankfurt,Digital/Specialist Agency,Germany,Clothing & Accessories,3.4
+412,Rethink,Toronto,Creative Agency,Canada,Retail,3.4
+412,Rethink,Vancouver,Creative Agency,Canada,Retail,3.4
+440,Café Communications,Budapest,Creative Agency,Hungary,Automotive,3
+440,Digitas,Sydney,Digital/Specialist Agency,Australia,Technology & Electronics,3
+440,McKinney,Durham,Creative Agency,USA,"Non-profit, public sector & education",3
+440,MRM//McCann,New York,Digital/Specialist Agency,USA,Telecoms & Utilities,3
+440,MullenLowe Delta,Quito,Creative Agency,Ecuador,Financial Services,3
+440,Saatchi & Saatchi,New York,Creative Agency,USA,Household & Domestic,3
+446,Anomaly,Shanghai,Creative Agency,China (Mainland),Transport & Tourism,2.7
+446,Kit Pben Lert,Bangkok,Creative Agency,Thailand,"Non-profit, public sector & education",2.7
+446,McCann Health,Singapore,Creative Agency,Singapore,"Non-profit, public sector & education",2.7
+446,Ogilvy,Melbourne,Creative Agency,Australia,"Non-profit, public sector & education",2.7
+446,Ogilvy,Tokyo,Creative Agency,Japan,Household & Domestic,2.7
+446,Overman,Seoul,Creative Agency,South Korea,"Non-profit, public sector & education",2.7
+446,W,Shanghai,Creative Agency,China (Mainland),Retail,2.7
+446,Wunderman Thompson,Tokyo,Creative Agency,Japan,Pharma & Healthcare,2.7
+446,ZHENG&Co.,Guangzhou,Creative Agency,China (Mainland),Transport & Tourism,2.7
+455,Dentsu,Singapore,Creative Agency,Singapore,"Non-profit, public sector & education",2.5
+455,Dentsu Digital,Tokyo,Digital/Specialist Agency,Japan,Alcoholic Drinks,2.5
+455,Frontage,Tokyo,Creative Agency,Japan,Media & Publishing,2.5
+455,Geometry,Tokyo,Digital/Specialist Agency,Japan,Retail,2.5
+455,Gigil,Manila,Creative Agency,Philippines,Toiletries & Cosmetics,2.5
+455,Insight Group,Guangzhou,Creative Agency,China (Mainland),Technology & Electronics,2.5
+455,Inspire,Shanghai,Creative Agency,China (Mainland),Food,2.5
+455,McCann,Taipei,Creative Agency,Taiwan,Financial Services,2.5
+455,The Nine,Shanghai,Creative Agency,China (Mainland),Technology & Electronics,2.5
+455,WATConsult,Mumbai,Digital/Specialist Agency,India,"Non-profit, public sector & education",2.5
+465,BBDO,Brussels,Creative Agency,Belgium,Retail,2.4
+465,Duval Guillaume,Brussels,Creative Agency,Belgium,"Non-profit, public sector & education",2.4
+465,Friends,Moscow,Creative Agency,Russia,Telecoms & Utilities,2.4
+465,House of Radon,Stockholm,Creative Agency,Sweden,"Non-profit, public sector & education",2.4
+465,JWT Folk,Dublin,Creative Agency,Ireland,Telecoms & Utilities,2.4
+465,King,Stockholm,Creative Agency,Sweden,"Non-profit, public sector & education",2.4
+465,Ogilvy,Paris,Creative Agency,France,Toiletries & Cosmetics,2.4
+465,Publicis,Istanbul,Creative Agency,Turkey,Automotive,2.4
+465,Serviceplan,Berlin,Creative Agency,Germany,Transport & Tourism,2.4
+465,TRY Reklame,Oslo,Creative Agency,Norway,Media & Publishing,2.4
+475,Leo Burnett,Cairo,Creative Agency,Egypt,Food,2.3
+476,77 Media,Jeddah,Digital/Specialist Agency,Saudi Arabia,Transport & Tourism,2.2
+476,Geometry,Dubai,Digital/Specialist Agency,United Arab Emirates,Media & Publishing,2.2
+476,Leo Burnett,Riyadh,Creative Agency,Saudi Arabia,Retail,2.2
+476,The Classic Partnership,Dubai,Creative Agency,United Arab Emirates,"Non-profit, public sector & education",2.2
+476,La América,Buenos Aires,Creative Agency,Argentina,Alcoholic Drinks,2.2
+476,McCann Health,São Paulo,Creative Agency,Brazil,Pharma & Healthcare,2.2
+482,Agencia Montalvo,Mexico City,Creative Agency,Mexico,Clothing & Accessories,2.1
+482,Artplan,São Paulo,Creative Agency,Brazil,Retail,2.1
+482,DDB,Barcelona,Creative Agency,Spain,Automotive,2.1
+482,De la Cruz & Associates,Guaynabo,Creative Agency,Puerto Rico,"Non-profit, public sector & education",2.1
+482,Delantero Comunicação,Fortaleza,Creative Agency,Brazil,Leisure & Entertainment,2.1
+482,Drop & Vase,Barcelona,Creative Agency,Spain,Retail,2.1
+482,el taier DDB Centro,Guatemala City,Creative Agency,Guatemala,"Non-profit, public sector & education",2.1
+482,Grey,Mexico City,Creative Agency,Mexico,Alcoholic Drinks,2.1
+482,Grupo Creativo Herrera,Quito,Creative Agency,Ecuador,Household & Domestic,2.1
+482,Happy Punk Panda,San Salvador,Digital/Specialist Agency,El Salvador,Clothing & Accessories,2.1
+482,Havas Worldwide,Lisbon,Creative Agency,Portugal,"Non-profit, public sector & education",2.1
+482,Integratto,Jalisco,Creative Agency,Mexico,Soft Drinks,2.1
+482,McCann,Bogotá,Creative Agency,Colombia,Transport & Tourism,2.1
+482,McCann,Quito,Creative Agency,Ecuador,Media & Publishing,2.1
+482,McCann,Mexico City,Creative Agency,Mexico,Retail,2.1
+482,Propeg,Salvador,Creative Agency,Brazil,Toiletries & Cosmetics,2.1
+482,Publicis,Bogotá,Creative Agency,Colombia,Automotive,2.1
+482,Publicis,Mexico City,Creative Agency,Mexico,Automotive,2.1
+482,TBWA\Buenos Aires,Buenos Aires,Creative Agency,Argentina,Financial Services,2.1
+482,TBWA\Colombia,Bogotá,Creative Agency,Colombia,Business & Industrial,2.1
+482,The Electric Factory,Montevideo,Digital/Specialist Agency,Uruguay,Automotive,2.1
+482,Yslandia,Madrid,Creative Agency,Spain,Soft Drinks,2.1
+482,Abnormal,Johannesburg,Creative Agency,South Africa,Business & Industrial,2.1
+482,DDB,Johannesburg,Creative Agency,South Africa,"Non-profit, public sector & education",2.1
+482,Grey,Johannesburg,Creative Agency,South Africa,Toiletries & Cosmetics,2.1
+482,Grid Worldwide,Johannesburg,Creative Agency,South Africa,"Non-profit, public sector & education",2.1
+482,Horizon FCB,Dubai,Creative Agency,United Arab Emirates,Household & Domestic,2.1
+482,J. Walter Thompson,Johannesburg,Creative Agency,South Africa,Alcoholic Drinks,2.1
+482,Ogilvy,Nairobi,Creative Agency,Kenya,Soft Drinks,2.1
+482,Promise,Johannesburg,Creative Agency,South Africa,Alcoholic Drinks,2.1
+482,Publicis,Johannesburg,Creative Agency,South Africa,Automotive,2.1
+482,RAPP,Dubai,Digital/Specialist Agency,United Arab Emirates,Retail,2.1
+,,,,,,
+© WARC 2021. Please refer to https://warc.com/rankings/creative-100/methodology for further information,,,,,,
