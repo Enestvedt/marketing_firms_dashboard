@@ -1,0 +1,62 @@
+/* tags */
+
+h1 {
+    color: #183b3b;
+  }
+  
+  h2 {
+    color: #183b3b;
+  }
+  
+  img {
+    height: auto;
+  }
+  
+  /* classes */
+  
+  .selected-visualization {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(55, 78, 55);
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .unselected-visualization {
+    border-style: none;
+    border-width: 1px;
+    border-color: rgb(55, 78, 55);
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .comparison-header {
+    text-align: center;
+  }
+  
+  /* Selecting elements by ID */
+  
+  #navbar-banner {
+    background-color: #033333;
+  }
+  
+  #main {
+    float: left;
+  }
+  
+  #figure {
+    position: relative;
+  }
+  
+  #main-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+  }
+  
+  /* Advertising Data button on navbar */
+  
+  #home {
+    color: white;
+    background-color: #00aaaa;
+  }
