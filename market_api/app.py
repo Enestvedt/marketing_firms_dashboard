@@ -39,10 +39,6 @@ def welcome():
 @app.route("/agencies")
 def names():
     
-    #find my own record
-    my_city = 'New York'
-    my_rank_cat = 'media'
-    my_product_cat = 'Retail'
 
     my_query = f'''
         select a.name as agency_name, a.city, amr.ranking_category, pc.name as product_category, amr.year, amr.points
@@ -64,28 +60,17 @@ def names():
     return my_record.to_json(orient="records")
 
 
-# @app.route("/api/v1.0/passengers")
-# def passengers():
-#     # Create our session (link) from Python to the DB
-#     session = Session(engine)
+@app.route("/agency/<my_city>/<my_rank_cat>/<my_product_cat>")
+def filtered(my_city, my_rank_cat, my_prod_cat):
 
-#     """Return a list of passenger data including the name, age, and sex of each passenger"""
-#     # Query all passengers
-#     results = session.query(Passenger.name, Passenger.age, Passenger.sex).all()
-
-#     session.close()
-
-#     # Create a dictionary from the row data and append to a list of all_passengers
-#     all_passengers = []
-#     for name, age, sex in results:
-#         passenger_dict = {}
-#         passenger_dict["name"] = name
-#         passenger_dict["age"] = age
-#         passenger_dict["sex"] = sex
-#         all_passengers.append(passenger_dict)
-
-#     return jsonify(all_passengers)
-
+    filters = []    
+    if my_city != "All":
+        filters.append(f"a.city = '{my_city}'")
+    if my_rank_cat != "All":
+        filters.append(f"amr.ranking_category = '{my_rank_cat}'")
+    if my_prod_cat != "All":
+        filters.append(f"pc.name = '{my_prod_cat}'")
+    
 
 if __name__ == '__main__':
     app.run(debug=True)
