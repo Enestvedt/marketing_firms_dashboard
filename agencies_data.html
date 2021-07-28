@@ -12,8 +12,8 @@
 <body>
     <div class="wrapper">
         <div class="hero text-center">
-          <h1>Marketing Data</h1>
-          <p>Find a business partner!</p>
+          <h1>Marketing Agencies</h1>
+          <p>Grow your business with our marketing partners!</p>
         </div>
         <div class="container">
           <div class="row margin-top-50">
@@ -28,6 +28,12 @@
                           <li class="filter list-group-item">
                             <label for="city">Select a City</label>
                             <select class="form-select" id="city" aria-label="Default select example">
+                              <option selected value="all">all</option>
+                            </select>
+                          </li>
+                          <li class="filter list-group-item">
+                            <label for="city">Select Base Country</label>
+                            <select class="form-select" id="country" aria-label="Default select example">
                               <option selected value="all">all</option>
                             </select>
                           </li>
@@ -58,6 +64,7 @@
                     <tr>
                       <th class="table-head">Agency Name</th>
                       <th class="table-head">City</th>
+                      <th class="table-head">Base Country</th>
                       <th class="table-head">Marketing Category</th>
                       <th class="table-head">Product Category</th>
                       <th class="table-head">Year</th>
@@ -70,14 +77,9 @@
             </div>
           </div>
         </div>
-        <footer class="footer">
-          <span class="bottom">Marketing Data</span>
-        </footer>
       </div>
 
-
-
   <script src="https://d3js.org/d3.v5.min.js"></script>
-  <script src="/js/test.js"></script>
+  <script src="/js/agencies.js"></script>
 </body>
 </html>

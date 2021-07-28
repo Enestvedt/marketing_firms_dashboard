@@ -12,21 +12,14 @@ d3.json(base_url).then(function(myData) {
 });
 
 
-
-
-
-
-// YOUR CODE HERE!
 // Use D3 to select the table body
 var tbody = d3.select("tbody");
-
-
 
 // ------------------------------------------------
 // populate the drop-down menues
 
 function makeMenus(myData){
-    const menus = ["city", "ranking_category", "product_category"];
+    const menus = ["city", "country", "ranking_category", "product_category"];
 
     menus.forEach(menu => {
             var options = myData.map(item => item[menu]);
@@ -48,10 +41,7 @@ function populateDrop(drop, dropVals) {
 };
 
 
-
-
 // ------------------------------------------------
-
 
 //Function to populate table with all or user filtered data
 // Build table by loop myData and get keys/vals write cells
@@ -69,9 +59,6 @@ function buildTable(agencies){
     });
 };
 
-
-
-
 // // ------------------------------------------------
 // //Build a table filter for user to select options
 var button = d3.select("#filter-btn");
@@ -88,6 +75,7 @@ function filterData() {
 
     // Select the input element and get the raw HTML node
     let cityElement = d3.select("#city");
+    let countryElement = d3.select("#country");
     let rankElement = d3.select("#ranking_category");
     let prodElement = d3.select("#product_category");
 
@@ -96,10 +84,11 @@ function filterData() {
     let searchParams = {}
     
     let city = cityElement.property("value");
+    let country = countryElement.property("value");
     let rankingCat = rankElement.property("value");
     let prodCat = prodElement.property("value");
 
-    let url = base_url + "/" + city + "/" + rankingCat + "/" + prodCat;
+    let url = base_url + "/" + city + "/" + country + "/" + rankingCat + "/" + prodCat;
 
     d3.json(url).then(function(filterData) {
         console.log(filterData);
