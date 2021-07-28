@@ -1,7 +1,5 @@
-import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
+from sqlalchemy import create_engine
 from config import user_name, p_word
 import pandas as pd
 
@@ -9,21 +7,18 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 
 
-#################################################
 # Database Setup
-#################################################
 engine = create_engine(f'postgresql://{user_name}:{p_word}@localhost:5432/marketing')
 
 
-#################################################
+
 # Flask Setup
-#################################################
+
 app = Flask(__name__)
 # cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
 CORS(app)
-#################################################
+
 # Flask Routes
-#################################################
 
 @app.route("/")
 def welcome():
@@ -36,11 +31,7 @@ def welcome():
     )
 
 
-@app.route("/agencies")
-def names():
-    
-
-    my_query = f'''
+base_query = f'''
         select a.name as agency_name, a.city, amr.ranking_category, pc.name as product_category, amr.year, amr.points
             from agency as a
             join agency_market_rank amr on
@@ -50,27 +41,41 @@ def names():
             join product_category pc on
                 apc.product_category_id = pc.id
             '''
+order_by = "order by a.name, amr.year, amr.ranking_category, amr.points desc"
 
-        # where a.city = '{my_city}' and amr.ranking_category = '{my_rank_cat}' and pc.name = '{my_product_cat}'
-        # order by a.name, amr.year, amr.ranking_category, amr.points desc
+@app.route("/agencies")
+def names():
     
-    my_record = pd.read_sql(my_query, engine)
+    my_record = pd.read_sql(base_query + order_by, engine)
     
     print(my_record.columns)
     return my_record.to_json(orient="records")
 
 
-@app.route("/agency/<my_city>/<my_rank_cat>/<my_product_cat>")
-def filtered(my_city, my_rank_cat, my_prod_cat):
+@app.route("/agencies/<my_city>/<my_rank_cat>/<my_prod_cat>")
+def filtered(my_city=None, my_rank_cat=None, my_prod_cat=None):
+    print(my_city, my_rank_cat, my_prod_cat)
 
     filters = []    
-    if my_city != "All":
+    if my_city != "all":
         filters.append(f"a.city = '{my_city}'")
-    if my_rank_cat != "All":
+    if my_rank_cat != "all":
         filters.append(f"amr.ranking_category = '{my_rank_cat}'")
-    if my_prod_cat != "All":
+    if my_prod_cat != "all":
         filters.append(f"pc.name = '{my_prod_cat}'")
     
+
+    if filters:
+        where = " and ".join(filters)
+
+        my_record = pd.read_sql(f'{base_query} where {where} {order_by}', engine)
+        print(my_record.columns)
+        return my_record.to_json(orient="records")
+    else:
+        my_record = pd.read_sql(base_query + order_by, engine)
+    
+        print(my_record.columns)
+        return my_record.to_json(orient="records")
 
 if __name__ == '__main__':
     app.run(debug=True)

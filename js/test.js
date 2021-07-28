@@ -5,7 +5,7 @@ const base_url = "http://127.0.0.1:5000/agencies";
 // Fetch the JSON data and console log it
 d3.json(base_url).then(function(myData) {
     console.log(myData);
-    if (menus === true){makeMenus(myData);}
+    makeMenus(myData);
     // load all data
     buildTable(myData);
 
@@ -98,7 +98,6 @@ function filterData() {
     let city = cityElement.property("value");
     let rankingCat = rankElement.property("value");
     let prodCat = prodElement.property("value");
-
 
     let url = base_url + "/" + city + "/" + rankingCat + "/" + prodCat;
 
