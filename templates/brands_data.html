@@ -7,75 +7,79 @@
     <title>Document</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
-</head>
+    <link rel="stylesheet" href="static/main.css">
+
+  </head>
 
 <body>
-  <nav class="navbar sticky-top navbar-light bg-light">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">Perspective</a>
-    </div>
-</nav>
+  <ul class="topnav">
+    <li><a href="/" style="color: rgb(213, 84, 21)"><h4>Perspective</h4></a></li>
+    <li class="right"><a href="/brands_data">Brands Data</a></li>
+    <li class="right"><a href="/brand">Brands</a></li>
+    <li class="right" style="background-color: rgb(213, 84, 21);"><a href="/agencies_data">Agency Data</a></li>
+    <li class="right"><a href="/agency">Agencies</a></li>
+  </ul>
 
-<div class="wrapper">
-        <div class="hero text-left">
-          <h1>Hot Brands</h1>
-          <p>Connect with our brands. Expand your marketing business!</p>
-        </div>
-        <div class="container">
-          <div class="row margin-top-50">
-            <div class="col-md-2">
-              <aside class="filters">
-                <div class="panel panel-default">
-                  <div class="panel-heading">Filter Search</div>
-                  <div class="panel-body">
-                    <form>
-                      <div class="form-group">
-                        <ul class="list-group" id="filters">
-                          <li class="filter list-group-item">
-                            <label for="city">Select a Brand</label>
-                            <select class="form-select" id="brand" aria-label="Default select example">
-                              <option selected value="all">all</option>
-                            </select>
-                          </li>
-                          <li class="filter list-group-item">
-                            <label for="ranking_category">Select a Ranking Category</label>
-                            <select class="form-select" id="ranking_category" aria-label="Default select example">
-                              <option selected value="all">all</option>
-                            </select>
-                          </li>
-                          <li class="filter list-group-item">
-                            <label for="product_category">Select a Product Category</label>
-                            <select class="form-select" id="product_category" aria-label="Default select example">
-                              <option selected value="all">all</option>
-                            </select>
-                          </li>
-                        </ul>
-                      </div>
-                      <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
-                    </form>
+  <div class="wrapper">
+    <div class="hero text-center">
+      <h1>Hot Brands</h1>
+      <p>Connect with our brands. Expand your marketing business!</p>
+    </div>
+    <div class="container">
+      <div class="row margin-top-50">
+        <div class="col-md-12">
+          <aside class="filters">
+            <div class="panel panel-default">
+              <div class="panel-heading">Filter Search</div>
+              <div class="panel-body">
+                <form>
+                  <div class="form-group">
+                    <ul class="list-group" id="filters">
+                      <li class="filter list-group-item">
+                        <label for="city">Select a Brand</label>
+                        <select class="form-select" id="brand" aria-label="Default select example">
+                          <option selected value="all">all</option>
+                        </select>
+                      </li>
+                      <li class="filter list-group-item">
+                        <label for="ranking_category">Select a Ranking Category</label>
+                        <select class="form-select" id="ranking_category" aria-label="Default select example">
+                          <option selected value="all">all</option>
+                        </select>
+                      </li>
+                      <li class="filter list-group-item">
+                        <label for="product_category">Select a Product Category</label>
+                        <select class="form-select" id="product_category" aria-label="Default select example">
+                          <option selected value="all">all</option>
+                        </select>
+                      </li>
+                    </ul>
                   </div>
-                </div>
-              </aside>
-            </div>
-            <div class="col-md-10">
-              <div id="table-area" class="">
-                <table id="ufo-table" class="table table-striped">
-                  <thead>
-                    <tr>
-                      <th class="table-head">Brand Name</th>
-                      <th class="table-head">Marketing Category</th>
-                      <th class="table-head">Product Category</th>
-                      <th class="table-head">Year</th>
-                      <th class="table-head">Points</th>
-                    </tr>
-                  </thead>
-                  <tbody></tbody>
-                </table>
+                  <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
+                </form>
               </div>
             </div>
+          </aside>
+        </div>
+        <div class="col-md-12">
+          <div id="table-area" class="">
+            <table id="data-table" class="table table-striped">
+              <thead>
+                <tr>
+                  <th class="table-head">Brand Name</th>
+                  <th class="table-head">Marketing Category</th>
+                  <th class="table-head">Product Category</th>
+                  <th class="table-head">Year</th>
+                  <th class="table-head">Points</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
           </div>
         </div>
       </div>
+    </div>
+  </div>
 
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="static/js/brands.js"></script>
