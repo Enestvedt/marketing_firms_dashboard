@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from config import user_name, p_word
 import pandas as pd
 
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
 from flask_cors import CORS
 
 
@@ -21,7 +21,7 @@ select_agency = f'''
 	join product_category pc on
 		apc.product_category_id = pc.id
     '''
-order_by_agency = "order by amr.year, amr.ranking_category, amr.points, a.name desc"
+order_by_agency = "order by amr.year desc, amr.ranking_category, amr.points desc, a.name"
 
 select_brand = f'''
     select bmr.brand, bmr.ranking_category, pc.name as product_category, bmr.year, bmr.points
@@ -31,7 +31,7 @@ select_brand = f'''
 	join product_category pc on
 		bpc.product_category_id = pc.id
 '''
-order_by_brand = "order by bmr.year, bmr.ranking_category, bmr.points, bmr.brand desc"
+order_by_brand = "order by bmr.year desc, bmr.ranking_category, bmr.points desc, bmr.brand"
 
 # Flask Setup
 app = Flask(__name__)
@@ -41,18 +41,22 @@ CORS(app)
 
 # Flask Routes
 
-# default route - provide basic info about api
+# index.html route
 @app.route("/")
-def welcome():
-    # add some information about the api here
-    """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/agencies/<br/>"
-        f"/brands/"
-    )
+def index():
+    return render_template("index.html")
 
-# agencies route returns all agencies - initial data
+# agencies_data.html route
+@app.route("/agencies_data")
+def agencies_data():
+    return render_template("index.html")
+
+# brands_data.html route
+@app.route("/brands_data")
+def brands_data():
+    return render_template("brands.html")
+
+# agencies api route returns json agencies data
 @app.route("/agencies")
 def agencies():
     
@@ -61,7 +65,7 @@ def agencies():
     print(my_record.columns)
     return my_record.to_json(orient="records")
 
-# agencies filters the data based on user selections
+# agencies api filters the data based on user selections returns json
 @app.route("/agencies/<my_city>/<my_country>/<my_rank_cat>/<my_prod_cat>")
 def a_filtered(my_city=None, my_country=None, my_rank_cat=None, my_prod_cat=None):
     print(my_city, my_rank_cat, my_prod_cat)
@@ -91,7 +95,7 @@ def a_filtered(my_city=None, my_country=None, my_rank_cat=None, my_prod_cat=None
 
 
 
-# brands route returns all agencies - initial data
+# api brands route returns all agencies - initial json data
 @app.route("/brands")
 def brands():
     
