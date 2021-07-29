@@ -1,5 +1,5 @@
 // add base url first, then build the url with parameters
-const base_url = "http://127.0.0.1:5000/agencies";
+const base_url = "http://localhost:8000/";
 
 
 // Fetch the JSON data and console log it
