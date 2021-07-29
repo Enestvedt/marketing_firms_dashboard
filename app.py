@@ -49,12 +49,12 @@ def index():
 # agencies_data.html route
 @app.route("/agencies_data")
 def agencies_data():
-    return render_template("index.html")
+    return render_template("agencies_data.html")
 
 # brands_data.html route
 @app.route("/brands_data")
 def brands_data():
-    return render_template("brands.html")
+    return render_template("brands_data.html")
 
 # agencies api route returns json agencies data
 @app.route("/agencies")

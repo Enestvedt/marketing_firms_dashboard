@@ -1,9 +1,8 @@
-// add base url first, then build the url with parameters
-const base_url = "http://127.0.0.1:5000/brands";
+
 
 
 // Fetch the JSON data and console log it
-d3.json(base_url).then(function(myData) {
+d3.json("/brands").then(function(myData) {
     console.log(myData);
     makeMenus(myData);
     // load all data
@@ -86,7 +85,7 @@ function filterData() {
     let rankingCat = rankElement.property("value");
     let prodCat = prodElement.property("value");
 
-    let url = base_url + "/" + brand + "/" + rankingCat + "/" + prodCat;
+    let url = "/brands/" + brand + "/" + rankingCat + "/" + prodCat;
 
     d3.json(url).then(function(filterData) {
         console.log(filterData);
