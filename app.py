@@ -46,6 +46,16 @@ CORS(app)
 def index():
     return render_template("index.html")
 
+# brand.html route
+@app.route("/brand")
+def brand():
+    return render_template("brand.html")
+
+# agency.html route
+@app.route("/agency")
+def agency():
+    return render_template("agency.html")
+
 # agencies_data.html route
 @app.route("/agencies_data")
 def agencies_data():
